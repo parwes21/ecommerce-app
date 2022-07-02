@@ -6,7 +6,7 @@ function App() {
   return (
 <>
 <Routes>
-  <Route exact path="/" element={<ProductPage />} />
+  <Route exact path="/ecommerce-app" element={<ProductPage />} />
   <Route path="productdetail/:id" element={<ProductDetail />} />
 </Routes>
 
