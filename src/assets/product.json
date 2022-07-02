@@ -1,0 +1,27 @@
+[
+    {
+      "id": "1",
+      "name": "T-Shirt",
+      "price": 500 ,
+      "imageUrl": "https://www.datocms-assets.com/56262/1633338865-shirt.jpg",
+      "description": "A white t-shirt",
+      "url": "/api/products/halfmoon"
+    },
+    {
+      "id": "2",
+      "name": "Wallet",
+      "price": 200,
+      "imageUrl": "https://www.datocms-assets.com/56262/1633338869-fancy-wallet.jpg",
+      "description": "A fancy wallet",
+      "url": "/api/products/wallet"
+    },
+    {
+      "id": "3",
+      "name": "Cup",
+      "price": 150,
+      "imageUrl": "https://www.datocms-assets.com/56262/1633338802-cup.jpg",
+      "description": "A tea cup",
+      "url": "/api/products/veiltail"
+    }
+  ]
+  
